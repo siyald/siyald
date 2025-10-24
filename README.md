@@ -3,7 +3,7 @@
   
   <h1 align="center">Hi there 👋, I'm Siyal Dhande</h1>
   
-  <p>💫 A passionate **Data Engineer** focused on building scalable data infrastructure, robust data pipelines, and end-to-end cloud data solutions.</p>
+  <p>💫 A passionate Data Engineer focused on building scalable data infrastructure, robust data pipelines, and end-to-end cloud data solutions.</p>
 </div>
 
 ---
