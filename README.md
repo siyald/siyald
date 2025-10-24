@@ -37,7 +37,6 @@ Here are the primary tools and technologies I use to build, manage, and scale da
       <img src="https://img.shields.io/badge/Amazon%20Redshift-800000?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="Amazon Redshift"/>
       <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="Google BigQuery"/>
       <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Synapse"/>
-      <img src="httpsD://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"/>
       <img src="https://img.shields.io/badge/ADLS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Lake Storage"/>
       <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     </td>
